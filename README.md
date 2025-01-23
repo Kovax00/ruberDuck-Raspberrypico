@@ -1,2 +1,3 @@
 # prueba 
-https://github.com/Kovax00/ruberDuck-Raspberrypico/blob/913f01735cc5914dce8e46cd9da073200c0f86b4/Art%20Love%20GIF.gif
+
+![Art Love GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJwcXEwbDZvYWZmYTUydzRydXUzZHBhOGZwNzN4cjZrcTJna2I5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9jmRfuAZdhBrVcfIkx/giphy.gif)
